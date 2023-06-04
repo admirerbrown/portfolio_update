@@ -63,7 +63,7 @@ Website includes a summary profile section that highlights my professional exper
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Portfolio Link](https://admirerbrown.github.io/portfolio/)
+- [Portfolio Link](https://samuelkyere-porfolio.netlify.app/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
