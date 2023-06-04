@@ -1,84 +1,173 @@
-# React JS Resume Website Template
+<a name="readme-top"></a>
+# 📖 Portfolio Website <a name="about-project"></a>
 
-![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true 'ReactJS Resume Website Template')
+My portfolio website built with React.js, Typescript, Next.js, is sleek and modern, showcasing my skills, experience, and projects in a professional and minimalist design. Its responsive layout ensures it looks great on all devices. Check it out to learn more about me and my unique strengths!
 
-<div align="center">
 
-<img alt="GitHub release (latest by date including pre-releases" src="https://img.shields.io/github/v/release/tbakerx/react-resume-template?include_prereleases">
+# 📗 Table of Contents
 
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tbakerx/react-resume-template?style=flat">
+- [📖 Portfolio Website ](#-portfolio-website-)
+- [📗 Table of Contents](#-table-of-contents)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Deployment](#deployment)
+  - [Authors](#authors)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-<img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/tbakerx/react-resume-template?style=flat&color=success">
 
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tbakerx/react-resume-template?style=flat&color=yellow">
+## 🛠 Built With <a name="built-with"></a>
 
-<img alt="GitHub package.json dependency version (prod)" src="https://img.shields.io/github/package-json/dependency-version/tbakerx/react-resume-template/react?style=flat">
+### Tech Stack <a name="tech-stack"></a>
+- HTML
+- Tailwind
+- React
 
-<img alt="Github Repo Sponsors" src="https://img.shields.io/github/sponsors/tbakerx?style=flat&color=blueviolet">
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://netlify.app/">Netlify</a></li>
+  </ul>
+</details>
 
-## React based template for software developer-focused resume websites
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a> API </a></li>
+  </ul>
+</details>
 
-</div>
+### Key Features <a name="key-features"></a>
 
-### View a [live demo here.](https://reactresume.com)
+**Responsive Design**
+My website has a responsive design so that visitors can access my portfolio easily and comfortably on any device they may be using, whether it's a desktop computer or a smartphone.
 
-#### If this template has helped you and you'd like to support my work, feel free to [♥️ Sponsor](https://github.com/sponsors/tbakerx) the project
+**Showcase Projects**
+The centerpiece of my portfolio website is a showcase of my work, featuring examples of my projects and accomplishments. I presented each project with a brief description and links to more information, giving visitors a sense of my skills and expertise. This showcase demonstrates my ability to create high-quality work and provides concrete evidence of my capabilities to potential clients or employers.
 
-### 🎉 Version 2 is here! New features:
-1. Completely rebuilt with React and full typescript support
-2. Built on the [Next.js](https://nextjs.org/) framework for easy server side rendering/static generation, image optimization, api routes, and deployment
-3. Styled entirely with [TailwindCss](https://tailwindcss.com/)
-4. Re-organized data population file for customizing site.
-5. Significant improvement/modernization of all site sections
+**My Profile**
+Website includes a summary profile section that highlights my professional experience, education, skills, and achievements. This profile section is designed to give potential employers or clients a clear understanding of my background and expertise.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Portfolio Link](https://admirerbrown.github.io/portfolio/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+- Open GitHub URL of repositry.
+- Download Code repo in zip.
+- Extract and open repo folder into visual studio code or any other Text Editor Software.
+- GitHub Repositry URL: https://github.com/admirerbrown/portfolio_update.git
+  To get a local copy up and running follow these simple example steps.
+  
+  `git clone  https://github.com/admirerbrown/portfolio_update.git`
+
+
+### Prerequisites
+- Visual Studio Code
+- Knowldege About HTML / CSS / JAVASCRIPT ES6/React
+- Basic Knowledge of TypeScript
+- Webhint
+- Stylelint
+- ESLint
+- node_modules checker
+- Github
+- Please have node and yarn installed
+
+
+### Install
+
+Install this project with:
+
+```sh
+  yarn install
+```
+
+
+### Usage
+
+To run the project in a development server, execute the following command:
+
+```sh
+  yarn dev
+```
+In your terminal you should be given the url of the running instance (usually http://localhost:3000 unless you have something else running).
+
+### Deployment
+
+You can deploy this project using:
+
+https://netlify.app/ OR GITHUB PAGES
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Authors
+👤 **Samuel Kyere**
+
+- GitHub: [@githubhandle](https://github.com/admirerbrown)
+- Twitter: [@twitterhandle](https://twitter.com/brown_admirer)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/samuel-ntow-kyere-5036741b4/)
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **Add more aesthetic features**
+- [ ] **Improve User Experience**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/admirerbrown/portfolio/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project please follow me on github and give stars to my repo.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+- I would like to thank Microverse for providing me with the resources and guiding me to complete this project.
+- Design inspired by Tim Baker.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](https://github.com/admirerbrown/portfolio/blob/master/LICENSE.md) licensed.
  
-**Looking for the old version? You can find it [here.](https://github.com/tbakerx/react-resume-template/releases/tag/v1.0.0)**
 
-## Description
-
-This is a React based personal resume website template. Built with typescript on the Next.js framework, styled with Tailwind css, and populated with data from a single file, you can easily create, customize and host your own personal website in minutes. Even better, the site is fully mobile-optimized and server-side rendered to ensure fast loading and a clean UI on any device. Read on to learn how to make it your own.
-
-## Make it Your Own!
-
-### 1. Make sure you have what you need
-
-To build this website, you will need to have the latest stable versions of Node and Yarn downloaded and installed on your machine. If you don't already have them, you can get Node [here,](https://nodejs.org/en/download/) and Yarn [here.](https://yarnpkg.com/getting-started/install)
-
-### 2. Fork and download this repo (and star if you like!)
-
-Next, find the `Fork` button in the top right of this page. This will allow you to make your own copy, for more info on forking repo's see [here.](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) After this, download to your development machine using the green `Code` button at the top of the repo page.
-
-### 3. Install dependencies and run
-
-Once you have your own copy of this repo forked and downloaded, open the folder in your favorite terminal and run `yarn install` to install dependencies. Following this, run `yarn dev` to run the project. In your terminal you should be given the url of the running instance (usually http://localhost:3000 unless you have something else running).
-
-### 4. Customize the data to make it your own
-
-All of the data for the site is driven via a file at `/src/data/data.tsx`. This is where you'll find the existing content, and updating the values here will be reflected on the site. If you have the site running as described above, you should see these changes reflected on save. The data types for all of these items are given in the same folder in the `dataDef.ts` file. Example images can be found at `src/images/` and are imported in the data file. To change, simply update these images using the same name and location, or add new images and update the imports. 
-
-### 5. Hook up contact form
-Due to the variety of options available for contact form providers, I've hooked up the contact form only so far as handling inputs and state. Form submission and the actual sending of the email is open to your own implementation. My personal recommendation for email provider is [Sendgrid.](https://sendgrid.com/)
-
-### 6. Make any other changes you like
-
-Of course, all of the code is there and nothing is hidden from you so if you would like to make any other styling/data changes, feel free!
-
-### 7. Deploy to Vercel and enjoy your new Resume Website
-
-Deploying your new site to Vercel is simple, and can be done by following their guide [here.](https://vercel.com/guides/deploying-nextjs-with-vercel) When you're all done and the build succeeds, you should be given a url for your live site, go there and you'll see your new personal resume website! Congratulations!
-
-## Project Created & Maintained By
-
-### Tim Baker
-
-<a href="https://twitter.com/timbakerx"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a><a href="https://instagram.com/tbakerx"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
-
-[![GitHub followers](https://img.shields.io/github/followers/tbakerx.svg?style=social&label=Follow)](https://github.com/tbakerx/)
-
-## Stargazers
-
-[![Stargazers repo roster for @tbakerx/react-resume-template](https://reporoster.com/stars/dark/tbakerx/react-resume-template)](https://github.com/tbakerx/react-resume-template/stargazers)
-
-## Forkers
-
-[![Forkers repo roster for @tbakerx/react-resume-template](https://reporoster.com/forks/dark/tbakerx/react-resume-template)](https://github.com/tbakerx/react-resume-template/network/members)
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
