@@ -1,0 +1,55 @@
+const Portfolio: FC = memo(() => {
+  return (
+    <Section className="bg-neutral-800" sectionId={SectionId.Portfolio}>
+      <div className="flex flex-col gap-y-8">
+        <h2 className="self-center text-xl font-bold text-white">Check out some of my work</h2>
+        {portfolioItems.map((item, index) => {
+          const {title, image, description} = item;
+          return (
+            <div key={`${title}-${index}`}>
+              <div className="container mx-auto px-4 sm:px-8">
+                <div className="bg-gray-100 ">
+                  <div className="space-y-4 rounded-lg lg:grid lg:grid-cols-3 lg:items-start lg:gap-6 lg:space-y-5 ">
+                    <a className="group" href="">
+                      <div className="">
+                        <Image
+                          alt="Featured Photo"
+                          className="rounded-lg object-cover shadow-lg group-hover:opacity-75"
+                          src={image}
+                        />
+                      </div>
+                    </a>
+                    <div className="sm:col-span-2">
+                      <div className="flex items-center">
+                        <div className="">
+                          <span className="text-skin-inverted border-skin-input inline-flex items-center rounded-full border px-2.5 py-1.5 text-sm font-medium leading-none">
+                            <svg className="brand-react mr-1.5 h-2 w-2" fill="currentColor" viewBox="0 0 8 8">
+                              <circle cx="4" cy="4" r="3"></circle>
+                            </svg>
+                            Tag #1
+                          </span>
+                          
+                        </div>
+                      </div>
+                      <div className="mt-2">
+                        <a className="group" href="">
+                          <h4 className="text-skin-inverted group-hover:text-skin-primary font-sans text-lg font-semibold leading-6">
+                            {title}
+                          </h4>
+                        </a>
+                        <p className="text-skin-base mt-1 text-sm font-normal leading-5">{description}</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </Section>
+  );
+});
+
+Portfolio.displayName = 'Portfolio';
+export default Portfolio;
