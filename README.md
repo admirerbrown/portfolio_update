@@ -144,7 +144,7 @@ https://netlify.app/ OR GITHUB PAGES
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/admirerbrown/portfolio/issues).
+Feel free to check the [issues page](https://github.com/admirerbrown/portfolio_update/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,7 +167,7 @@ If you like this project please follow me on github and give stars to my repo.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/admirerbrown/portfolio/blob/master/LICENSE.md) licensed.
+This project is [MIT](https://github.com/admirerbrown/portfolio_update/blob/main/LICENSE) licensed.
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
