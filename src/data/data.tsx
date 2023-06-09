@@ -10,7 +10,6 @@ import GithubIcon from '../components/Icon/GithubIcon';
 import LinkedInIcon from '../components/Icon/LinkedInIcon';
 import TwitterIcon from '../components/Icon/TwitterIcon';
 import heroImage from '../images/header-background.webp';
-import porfolio5 from '../images/portfolio/portfolio-5.png';
 import porfolio6 from '../images/portfolio/portfolio-6.png';
 import porfolio7 from '../images/portfolio/portfolio-7.png';
 import porfolio8 from '../images/portfolio/portfolio-8.png';
@@ -234,15 +233,7 @@ export const portfolioItems: PortfolioItem[] = [
     source: 'https://github.com/admirerbrown/Space-Travelers-Hub',
 
   },
-   {
-    title: 'Recipe App (Le Chef)',
-    description: 'The Recipe app keeps track of all your recipes, ingredients, and inventory. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe.',
-    url: 'https://github.com/admirerbrown/RoR-recipe_app',
-    image: porfolio5,
-    tags:['Ruby','Rails', 'Bootstrap', 'CanCanCan','Postgres'],
-    source: 'https://github.com/admirerbrown/RoR-recipe_app',
-
-  },
+  
   {
     title: 'Home Rental App(Stay A While)',
     description: ` "Stay A While" is a full-stack application that allows users to reserve an apartment or home. It uses React for the frontend, Ruby on Rails for the backend, and JWT (JSON Web Tokens) for authentication on the frontend.`,
