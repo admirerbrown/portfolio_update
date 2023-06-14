@@ -63,7 +63,7 @@ export const heroData: Hero = {
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm a Full Stack Software Engineer based in Ghana, currently studying at Microverse.Inc.
+        I am an experienced Full Stack Software Engineer based in Ghana, continually striving to stay up-to-date with the latest industry trends and technologies.
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
          I specialize in building high-quality products, implementing new features, and creating impressive websites. Check out my portfolio and experience to see my work. If you have a coding project in mind, let's collaborate and bring your ideas to life!.
