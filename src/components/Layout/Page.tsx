@@ -11,6 +11,7 @@ const Page: NextPage<PropsWithChildren<HomepageMeta>> = memo(({children, title, 
   return (
     <>
       <Head>
+
         <title>{title}</title>
         <meta content={description} name="description" />
 
@@ -30,22 +31,6 @@ const Page: NextPage<PropsWithChildren<HomepageMeta>> = memo(({children, title, 
         {/* Twitter: https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup */}
         <meta content={title} name="twitter:title" />
         <meta content={description} name="twitter:description" />
-
-        <!-- Matomo -->
-<script>
-  var _paq = window._paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="https://samuelkyereporfolionetlifyapp.matomo.cloud/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '1']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.async=true; g.src='//cdn.matomo.cloud/samuelkyereporfolionetlifyapp.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Matomo Code -->
 
       </Head>
       {children}
