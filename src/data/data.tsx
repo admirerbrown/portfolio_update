@@ -72,7 +72,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: 'https://docs.google.com/document/d/1YngYuCE3Jt4RqNwMWKRpDQB8BERy2sSGbXzTl7-XHog/edit?usp=drive_link',
+      href: 'https://docs.google.com/document/d/e/2PACX-1vQgDYqPrtm05c67zSeQTQBc9GTVs0F_3LUgIJwDv_iPOp00Obqn4wHjeds-eDYRxLZ4ZMN-NxbDnmAG/pub',
       text: 'Resume',
       primary: true,
       Icon: ArrowDownTrayIcon,
